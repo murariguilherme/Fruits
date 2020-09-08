@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\Moondu\Frutas\src\Frutas.Business\bin\Debug\netcoreapp3.1\Camada.Business.deps.json
+C:\Users\User\Desktop\Moondu\Frutas\src\Frutas.Business\bin\Debug\netcoreapp3.1\Camada.Business.dll
+C:\Users\User\Desktop\Moondu\Frutas\src\Frutas.Business\bin\Debug\netcoreapp3.1\Camada.Business.pdb
+C:\Users\User\Desktop\Moondu\Frutas\src\Frutas.Business\obj\Debug\netcoreapp3.1\Camada.Business.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Moondu\Frutas\src\Frutas.Business\obj\Debug\netcoreapp3.1\Camada.Business.AssemblyInfo.cs
+C:\Users\User\Desktop\Moondu\Frutas\src\Frutas.Business\obj\Debug\netcoreapp3.1\Camada.Business.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Moondu\Frutas\src\Frutas.Business\obj\Debug\netcoreapp3.1\Camada.Business.dll
+C:\Users\User\Desktop\Moondu\Frutas\src\Frutas.Business\obj\Debug\netcoreapp3.1\Camada.Business.pdb
+C:\Users\User\Desktop\Moondu\Frutas\src\Camada.Business\bin\Debug\netcoreapp3.1\Camada.Business.deps.json
+C:\Users\User\Desktop\Moondu\Frutas\src\Camada.Business\bin\Debug\netcoreapp3.1\Camada.Business.dll
+C:\Users\User\Desktop\Moondu\Frutas\src\Camada.Business\bin\Debug\netcoreapp3.1\Camada.Business.pdb
+C:\Users\User\Desktop\Moondu\Frutas\src\Camada.Business\obj\Debug\netcoreapp3.1\Camada.Business.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Moondu\Frutas\src\Camada.Business\obj\Debug\netcoreapp3.1\Camada.Business.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Moondu\Frutas\src\Camada.Business\obj\Debug\netcoreapp3.1\Camada.Business.AssemblyInfo.cs
+C:\Users\User\Desktop\Moondu\Frutas\src\Camada.Business\obj\Debug\netcoreapp3.1\Camada.Business.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Moondu\Frutas\src\Camada.Business\obj\Debug\netcoreapp3.1\Camada.Business.dll
+C:\Users\User\Desktop\Moondu\Frutas\src\Camada.Business\obj\Debug\netcoreapp3.1\Camada.Business.pdb

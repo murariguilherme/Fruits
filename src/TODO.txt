@@ -1,0 +1,5 @@
+Começar a trabalhar na API
+  - JWT para inserir e acessar dados
+  - POST, GET ALL, GET BY ID, UPDATE e DELETE
+Criar um projeto de teste de unidade
+  - Testes (Inserir fruta sem nome, inserir fruta com nome ja existente, validar tamanho dos campos)

@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\Moondu\Frutas\src\Frutas.Data\bin\Debug\netcoreapp3.1\Frutas.Data.deps.json
+C:\Users\User\Desktop\Moondu\Frutas\src\Frutas.Data\bin\Debug\netcoreapp3.1\Frutas.Data.dll
+C:\Users\User\Desktop\Moondu\Frutas\src\Frutas.Data\bin\Debug\netcoreapp3.1\Frutas.Data.pdb
+C:\Users\User\Desktop\Moondu\Frutas\src\Frutas.Data\obj\Debug\netcoreapp3.1\Frutas.Data.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Moondu\Frutas\src\Frutas.Data\obj\Debug\netcoreapp3.1\Frutas.Data.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Moondu\Frutas\src\Frutas.Data\obj\Debug\netcoreapp3.1\Frutas.Data.AssemblyInfo.cs
+C:\Users\User\Desktop\Moondu\Frutas\src\Frutas.Data\obj\Debug\netcoreapp3.1\Frutas.Data.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Moondu\Frutas\src\Frutas.Data\obj\Debug\netcoreapp3.1\Frutas.Data.dll
+C:\Users\User\Desktop\Moondu\Frutas\src\Frutas.Data\obj\Debug\netcoreapp3.1\Frutas.Data.pdb

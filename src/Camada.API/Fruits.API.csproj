@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Camada.Business\Fruits.Business.csproj" />
+    <ProjectReference Include="..\Camada.Data\Fruits.Data.csproj" />
+  </ItemGroup>
+
+
+</Project>

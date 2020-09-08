@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\Moondu\Frutas\src\Camada.Data\bin\Debug\netcoreapp3.1\Camada.Data.deps.json
+C:\Users\User\Desktop\Moondu\Frutas\src\Camada.Data\bin\Debug\netcoreapp3.1\Camada.Data.dll
+C:\Users\User\Desktop\Moondu\Frutas\src\Camada.Data\bin\Debug\netcoreapp3.1\Camada.Data.pdb
+C:\Users\User\Desktop\Moondu\Frutas\src\Camada.Data\bin\Debug\netcoreapp3.1\Camada.Business.dll
+C:\Users\User\Desktop\Moondu\Frutas\src\Camada.Data\bin\Debug\netcoreapp3.1\Camada.Business.pdb
+C:\Users\User\Desktop\Moondu\Frutas\src\Camada.Data\obj\Debug\netcoreapp3.1\Camada.Data.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Moondu\Frutas\src\Camada.Data\obj\Debug\netcoreapp3.1\Camada.Data.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Moondu\Frutas\src\Camada.Data\obj\Debug\netcoreapp3.1\Camada.Data.AssemblyInfo.cs
+C:\Users\User\Desktop\Moondu\Frutas\src\Camada.Data\obj\Debug\netcoreapp3.1\Camada.Data.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Moondu\Frutas\src\Camada.Data\obj\Debug\netcoreapp3.1\Camada.Data.csproj.CopyComplete
+C:\Users\User\Desktop\Moondu\Frutas\src\Camada.Data\obj\Debug\netcoreapp3.1\Camada.Data.dll
+C:\Users\User\Desktop\Moondu\Frutas\src\Camada.Data\obj\Debug\netcoreapp3.1\Camada.Data.pdb

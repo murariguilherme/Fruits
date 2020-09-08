@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\Moondu\Frutas\src\Frutas.Business\bin\Debug\netcoreapp3.1\Frutas.Business.deps.json
+C:\Users\User\Desktop\Moondu\Frutas\src\Frutas.Business\bin\Debug\netcoreapp3.1\Frutas.Business.dll
+C:\Users\User\Desktop\Moondu\Frutas\src\Frutas.Business\bin\Debug\netcoreapp3.1\Frutas.Business.pdb
+C:\Users\User\Desktop\Moondu\Frutas\src\Frutas.Business\obj\Debug\netcoreapp3.1\Frutas.Business.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Moondu\Frutas\src\Frutas.Business\obj\Debug\netcoreapp3.1\Frutas.Business.AssemblyInfo.cs
+C:\Users\User\Desktop\Moondu\Frutas\src\Frutas.Business\obj\Debug\netcoreapp3.1\Frutas.Business.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Moondu\Frutas\src\Frutas.Business\obj\Debug\netcoreapp3.1\Frutas.Business.dll
+C:\Users\User\Desktop\Moondu\Frutas\src\Frutas.Business\obj\Debug\netcoreapp3.1\Frutas.Business.pdb
+C:\Users\User\Desktop\Moondu\Frutas\src\Frutas.Business\obj\Debug\netcoreapp3.1\Frutas.Business.csprojAssemblyReference.cache

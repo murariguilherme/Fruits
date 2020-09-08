@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ElidMnMct+Bt0Tg1di/HDB4GKcHSRML9rTKTxuj4m8p72c5kU/SwRsGgfeHZtxHWMSJ5ebyvKmgZv9nviQzaug==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\Desktop\\Moondu\\Frutas\\src\\Camada.Business\\Fruits.Business.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\fluentvalidation\\9.2.0\\fluentvalidation.9.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}
