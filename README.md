@@ -6,7 +6,6 @@ The Fruit project is divided in 4 projects
   - App (MVC Application)
   - Business
   - Data
-  - (In some days a want to add the next project, Tests)
 
 
 The software working flow is easy, just a simple CRUD.
