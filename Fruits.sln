@@ -3,20 +3,20 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30204.135
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fruits.App", "src\Camada.App\Fruits.App.csproj", "{29CB5A54-A6DF-4976-864C-ECC23BE8F79E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fruits.App", "src\Fruits.App\Fruits.App.csproj", "{29CB5A54-A6DF-4976-864C-ECC23BE8F79E}"
 	ProjectSection(ProjectDependencies) = postProject
 		{ED2BB27A-FB5D-46F2-8210-2AE980939C88} = {ED2BB27A-FB5D-46F2-8210-2AE980939C88}
 		{7FB061E9-7612-4B39-BD9D-27FDE3C34597} = {7FB061E9-7612-4B39-BD9D-27FDE3C34597}
 	EndProjectSection
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fruits.Business", "src\Camada.Business\Fruits.Business.csproj", "{ED2BB27A-FB5D-46F2-8210-2AE980939C88}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fruits.Business", "src\Fruits.Business\Fruits.Business.csproj", "{ED2BB27A-FB5D-46F2-8210-2AE980939C88}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fruits.Data", "src\Camada.Data\Fruits.Data.csproj", "{7FB061E9-7612-4B39-BD9D-27FDE3C34597}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fruits.Data", "src\Fruits.Data\Fruits.Data.csproj", "{7FB061E9-7612-4B39-BD9D-27FDE3C34597}"
 	ProjectSection(ProjectDependencies) = postProject
 		{ED2BB27A-FB5D-46F2-8210-2AE980939C88} = {ED2BB27A-FB5D-46F2-8210-2AE980939C88}
 	EndProjectSection
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fruits.API", "src\Camada.API\Fruits.API.csproj", "{1966BE54-EB3C-479C-907B-8682DF4D2C71}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fruits.API", "src\Fruits.API\Fruits.API.csproj", "{1966BE54-EB3C-479C-907B-8682DF4D2C71}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

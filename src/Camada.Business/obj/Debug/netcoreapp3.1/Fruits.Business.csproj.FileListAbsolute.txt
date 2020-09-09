@@ -1,9 +1,0 @@
-C:\Users\User\Desktop\Moondu\Frutas\src\Camada.Business\bin\Debug\netcoreapp3.1\Fruits.Business.deps.json
-C:\Users\User\Desktop\Moondu\Frutas\src\Camada.Business\bin\Debug\netcoreapp3.1\Fruits.Business.dll
-C:\Users\User\Desktop\Moondu\Frutas\src\Camada.Business\bin\Debug\netcoreapp3.1\Fruits.Business.pdb
-C:\Users\User\Desktop\Moondu\Frutas\src\Camada.Business\obj\Debug\netcoreapp3.1\Fruits.Business.csprojAssemblyReference.cache
-C:\Users\User\Desktop\Moondu\Frutas\src\Camada.Business\obj\Debug\netcoreapp3.1\Fruits.Business.AssemblyInfoInputs.cache
-C:\Users\User\Desktop\Moondu\Frutas\src\Camada.Business\obj\Debug\netcoreapp3.1\Fruits.Business.AssemblyInfo.cs
-C:\Users\User\Desktop\Moondu\Frutas\src\Camada.Business\obj\Debug\netcoreapp3.1\Fruits.Business.csproj.CoreCompileInputs.cache
-C:\Users\User\Desktop\Moondu\Frutas\src\Camada.Business\obj\Debug\netcoreapp3.1\Fruits.Business.dll
-C:\Users\User\Desktop\Moondu\Frutas\src\Camada.Business\obj\Debug\netcoreapp3.1\Fruits.Business.pdb
